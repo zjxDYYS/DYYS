@@ -1,0 +1,2 @@
+webpackJsonp([23],{"0tAL":function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var r={render:function(){var t=this.$createElement,e=this._self._c||t;return e("div",[e("router-link",{attrs:{to:{name:"ProgramGuide"},tag:"div"}}),this._v(" "),e("transition",{attrs:{name:"fade",mode:"out-in"}},[e("router-view")],1)],1)},staticRenderFns:[]};var a=n("VU/8")({name:"Programme",data:function(){return{}}},r,!1,function(t){n("nFTH")},"data-v-43cdd127",null);e.default=a.exports},nFTH:function(t,e){}});
+//# sourceMappingURL=23.d228e144ed67ffdba913.js.map
