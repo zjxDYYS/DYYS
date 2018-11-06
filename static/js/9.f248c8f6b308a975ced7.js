@@ -1,0 +1,2 @@
+webpackJsonp([9],{N8vl:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var a={name:"Document",components:{Expectation:n("VbSe").a}},c={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",[this._v("\n  我是文件\n  "),t("Expectation")],1)},staticRenderFns:[]};var i=n("VU/8")(a,c,!1,function(e){n("mkhv")},"data-v-e1922b2e",null);t.default=i.exports},mkhv:function(e,t){}});
+//# sourceMappingURL=9.f248c8f6b308a975ced7.js.map
