@@ -1,0 +1,2 @@
+webpackJsonp([31],{e1Jq:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var i={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("div",{staticClass:"=size"},[this._v("\n    我是文章滑块\n  ")])])}]};var s=n("VU/8")({name:"Slider"},i,!1,function(e){n("nNqy")},"data-v-24ae188f",null);t.default=s.exports},nNqy:function(e,t){}});
+//# sourceMappingURL=31.7ba08a942d6c8582fb95.js.map
