@@ -1,2 +1,0 @@
-webpackJsonp([30],{ahwm:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var a={name:"Hobby",components:{Expectation:n("VbSe").a}},c={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",[this._v("\n  我是爱好页面\n  "),t("Expectation")],1)},staticRenderFns:[]};var i=n("VU/8")(a,c,!1,function(e){n("yKIj")},"data-v-3f8e1fc2",null);t.default=i.exports},yKIj:function(e,t){}});
-//# sourceMappingURL=30.1424f7660984955a02ef.js.map

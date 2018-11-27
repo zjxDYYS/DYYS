@@ -1,0 +1,2 @@
+webpackJsonp([15],{"6QAg":function(e,t){},RiMt:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var a={name:"BackDoc",components:{Expectation:n("VbSe").a}},c={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",[this._v("\n  我是后台文档页面\n  "),t("Expectation")],1)},staticRenderFns:[]};var i=n("VU/8")(a,c,!1,function(e){n("6QAg")},"data-v-af938bac",null);t.default=i.exports}});
+//# sourceMappingURL=15.d0216882be3e3c577234.js.map
